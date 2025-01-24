@@ -1,5 +1,6 @@
 # RFM-Analysis
 This project focuses on segmenting customers based on their purchasing behavior using RFM (Recency, Frequency, Monetary) Analysis. The analysis was performed on an eCommerce dataset to derive actionable insights for targeted marketing and customer retention strategies.
+
 1.Data Preprocessing:
 Cleaned the dataset, handled missing values, and ensured appropriate data types.
 
